@@ -1,0 +1,5 @@
+c:\users\swebster.corp\documents\visual studio 2010\Projects\Random\Random\obj\Debug\ResolveAssemblyReference.cache
+c:\users\swebster.corp\documents\visual studio 2010\Projects\Random\Random\bin\Debug\Random.dll
+c:\users\swebster.corp\documents\visual studio 2010\Projects\Random\Random\bin\Debug\Random.pdb
+c:\users\swebster.corp\documents\visual studio 2010\Projects\Random\Random\obj\Debug\Random.dll
+c:\users\swebster.corp\documents\visual studio 2010\Projects\Random\Random\obj\Debug\Random.pdb

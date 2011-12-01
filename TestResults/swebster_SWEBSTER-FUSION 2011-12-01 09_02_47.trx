@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="27337fc9-d2af-405d-b5d6-0c3ecf181e74" name="swebster@SWEBSTER-FUSION 2011-12-01 09:02:47" runUser="CORP\swebster" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="623c8cb9-2cbb-494f-83de-e6f7c41ea9dd">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="swebster_SWEBSTER-FUSION 2011-12-01 09_02_47">
+      <DeploymentItem filename="c:\users\swebster.corp\documents\visual studio 2010\Projects\Random\Random\bin\Debug\Random.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-12-01T09:02:47.1828034-07:00" queuing="2011-12-01T09:02:47.7200719-07:00" start="2011-12-01T09:02:47.8041139-07:00" finish="2011-12-01T09:02:55.5429814-07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\swebster.corp\documents\visual studio 2010\projects\random\random.tests\bin\debug\random.tests.dll" id="16dea082-764d-8db5-d5ac-ec10a6fe3b31">
+      <Execution id="586e8d12-2eed-443f-b9ec-c3e9d3ac0386" />
+      <TestMethod codeBase="c:/users/swebster.corp/documents/visual studio 2010/Projects/Random/Random.Tests/bin/Debug/Random.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Random.Tests.UnitTest1, Random.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="16dea082-764d-8db5-d5ac-ec10a6fe3b31" executionId="586e8d12-2eed-443f-b9ec-c3e9d3ac0386" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="586e8d12-2eed-443f-b9ec-c3e9d3ac0386" testId="16dea082-764d-8db5-d5ac-ec10a6fe3b31" testName="TestMethod1" computerName="SWEBSTER-FUSION" duration="00:00:07.4014696" startTime="2011-12-01T09:02:47.8171204-07:00" endTime="2011-12-01T09:02:55.4719459-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="586e8d12-2eed-443f-b9ec-c3e9d3ac0386">
+    </UnitTestResult>
+  </Results>
+</TestRun>

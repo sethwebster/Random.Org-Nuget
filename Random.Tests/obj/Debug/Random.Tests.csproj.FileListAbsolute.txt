@@ -1,0 +1,7 @@
+c:\users\swebster.corp\documents\visual studio 2010\Projects\Random\Random.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\swebster.corp\documents\visual studio 2010\Projects\Random\Random.Tests\bin\Debug\Random.Tests.dll
+c:\users\swebster.corp\documents\visual studio 2010\Projects\Random\Random.Tests\bin\Debug\Random.Tests.pdb
+c:\users\swebster.corp\documents\visual studio 2010\Projects\Random\Random.Tests\bin\Debug\Random.dll
+c:\users\swebster.corp\documents\visual studio 2010\Projects\Random\Random.Tests\bin\Debug\Random.pdb
+c:\users\swebster.corp\documents\visual studio 2010\Projects\Random\Random.Tests\obj\Debug\Random.Tests.dll
+c:\users\swebster.corp\documents\visual studio 2010\Projects\Random\Random.Tests\obj\Debug\Random.Tests.pdb
