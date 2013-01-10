@@ -9,7 +9,7 @@
     <ProjectGuid>{AE0873DD-662D-412E-9898-3DEC7442ECC5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Random.Tests</RootNamespace>
+    <RootNamespace>Random.Org.Tests</RootNamespace>
     <AssemblyName>Random.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
