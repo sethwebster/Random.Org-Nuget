@@ -9,6 +9,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Random.Org</RootNamespace>
+    <RootNamespace>Random</RootNamespace>
     <AssemblyName>Random.Org</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
